@@ -7,7 +7,7 @@ I m akbarfai, I'm a Junior Android Developer who's building some cool Android Ap
 
 ## My Skills :computer:
 
-- **Android*
+- **Android**
 <table align="center">
 <tbody>
  <tr>
