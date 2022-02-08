@@ -7,7 +7,7 @@ I m akbarfai, I'm a Junior Android Developer who's building some cool Android Ap
 
 ## My Skills :computer:
 
-- **Programming Languages**
+- **Android*
 <table align="center">
 <tbody>
  <tr>
@@ -15,9 +15,6 @@ I m akbarfai, I'm a Junior Android Developer who's building some cool Android Ap
 <img height=60px src="https://www.vectorlogo.zone/logos/android/android-icon.svg"> 
 </td>
 
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
 
 </tr>
 
