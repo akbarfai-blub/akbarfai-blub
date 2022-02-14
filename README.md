@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I m akbarfai, I'm a Junior Android Developer who's building some cool Android Apps and always been motivated to constantly improve my skills and improve myself professionally. I also like to design some cool website in my free time. You can check out some of my projects and if you got any questions you can reach out in the links below.
+I'm akbarfai, I'm a Junior Android Developer who's building some cool Android Apps and always been motivated to constantly improve my skills and improve myself professionally. I also like to design some cool website in my free time. You can check out some of my projects and if you got any questions you can reach out in the links below.
 
 
 
