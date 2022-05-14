@@ -56,12 +56,6 @@ I'm akbarfai, I'm a Junior Android Developer who's building some cool Android Ap
 - **Web Development**
 <table align="center">
 <tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-
-</tr>
   
 <tr>
 <td align="center" width="100%">
