@@ -1,5 +1,5 @@
 # 💫 About Me:
-A creative and technically skilled Frontend Developer and UI/UX Designer with a background in Software<br>Engineering from Telkom Surabaya Institute of Technology. I have 3 years of experience using Figma for<br>user-centered designs and ReactJS for building responsive, high-quality web applications. I also possess<br>GitHub proficiency for version control and experience with backend integration (MySQL, MongoDB).<br>Additionally, my skills in 3D modeling using Blender enable me to enhance visual storytelling. Passionate<br>about creating impactful, user-friendly solutions.
+A creative and technically skilled Frontend Developer and UI/UX Designer with a background in Software<br>Engineering from Telkom Surabaya Institute of Technology. I have 1 years of experience using Figma for<br>user-centered designs and ReactJS for building responsive, high-quality web applications. I also possess<br>GitHub proficiency for version control and experience with backend integration (MySQL, MongoDB).<br>Additionally, my skills in 3D modeling using Blender enable me to enhance visual storytelling. Passionate<br>about creating impactful, user-friendly solutions.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66f228f1c45e253cb0eaff92?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
