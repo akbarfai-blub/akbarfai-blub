@@ -55,7 +55,7 @@ I'm a curious learner with a big passion for **data** and **web development**. C
 ---
 
 ### 💬 Let's Connect!
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/akbarfai)
+- LinkedIn: [linkedin.com/in/akbarfai](https://linkedin.com/in/akbarfai)
 - Portfolio / Website : Cooming Soon
 
 ---
