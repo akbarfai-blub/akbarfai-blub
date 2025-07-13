@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Akbar</h1>
+<h1 align="center">Hi there! 👋 I'm Akbar Fai</h1>
 
 <p align="center">
   🎯 Data Science Enthusiast & 💻 Frontend Web Developer  
@@ -60,4 +60,4 @@ I'm a curious learner with a big passion for **data** and **web development**. C
 
 ---
 
-✨ Terima kasih sudah mampir! Jangan ragu cek repo-repo saya, feel free to fork atau diskusiin bareng ya 😄
+Thanks for stopping by — I really appreciate your visit! Feel free to explore my projects and reach out if you'd like to connect or collaborate. 🚀
