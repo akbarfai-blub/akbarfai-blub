@@ -36,9 +36,11 @@ I'm a curious learner with a big passion for **data** and **web development**. C
 
 ### 🔧 Tools & Platform
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git&logoColor=white)
 ![Colab](https://img.shields.io/badge/Notebook-Google_Colab-orange?logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
 
 ---
 
