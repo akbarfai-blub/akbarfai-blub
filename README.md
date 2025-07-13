@@ -30,7 +30,7 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 - React.js (in progress)
 - Tailwind CSS
 - Git & GitHub
-- UI/UX dasar (Figma)
+- UI/UX (Figma)
 
 ---
 
@@ -38,7 +38,6 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
 ![Colab](https://img.shields.io/badge/Notebook-Google_Colab-orange?logo=googlecolab)
 
 ---
@@ -46,18 +45,16 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbfai-blub&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbfai-blub&theme=default" />
 </p>
 
-> Ganti `your-username` dengan username GitHub kamu ya
 
 ---
 
 ### 💬 Let's Connect!
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/akbarfai)
 - Portfolio / Website (optional)
-- Kaggle: [kaggle.com/yourname](https://kaggle.com/yourname)
 
 ---
 
