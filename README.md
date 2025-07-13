@@ -1,6 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Akbar Fai</h1>
+<h1 align="left">Hi there! 👋 I'm Akbar Fai</h1>
 
-<p align="center">
+<p align="left">
   🎯 Data Science Enthusiast & 💻 Frontend Web Developer  
 </p>
 
