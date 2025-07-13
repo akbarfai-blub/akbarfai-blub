@@ -6,13 +6,13 @@
 
 ---
 
-### 🚀 Tentang Saya
-Saya seorang pembelajar yang passionate di dunia **data** dan **web development**. Saat ini aktif mengeksplorasi bagaimana data bisa digunakan untuk **mengambil keputusan bisnis**, sekaligus menikmati proses membangun tampilan web yang **interaktif dan intuitif**.
+### 🚀 About Me
+I'm a curious learner with a big passion for **data** and **web development**. Currently exploring how data can help drive **business decisions**, while also loving the process of building clean and interactive user interfaces.
 
-- 🔍 Saat ini fokus belajar: Machine Learning, Data Analysis, dan React.js
-- 📊 Sering ngulik dataset dari Kaggle, terutama yang berhubungan dengan bisnis & games
-- 🎮 Gamer at heart — karena kadang dari game pun kita bisa belajar tentang data dan UI/UX!
-- ✍️ Suka dokumentasi yang rapi & kode yang clean
+- 🔍 Currently focused on: Machine Learning, Data Analysis, and React.js
+- 📊 Enjoy digging into datasets on Kaggle — especially those related to business or games
+- 🎮 Gamer at heart — because games can teach you a lot about data & UI/UX too!
+- ✍️ Love well-documented projects & clean code
 
 ---
 
@@ -22,12 +22,12 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 - Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
 - Machine Learning (Supervised & Unsupervised)
 - SQL (Query & data manipulation)
-- Google Colab, Jupyter Notebook
+- Google Colab
 - Dashboard & storytelling (Power BI, Streamlit basic)
 
 #### 💻 Frontend Development:
 - HTML, CSS, JavaScript
-- React.js (in progress)
+- React.js
 - Tailwind CSS
 - Git & GitHub
 - UI/UX (Figma)
@@ -54,7 +54,7 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 
 ### 💬 Let's Connect!
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/akbarfai)
-- Portfolio / Website (optional)
+- Portfolio / Website : Cooming Soon
 
 ---
 
