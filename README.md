@@ -45,8 +45,8 @@ Saya seorang pembelajar yang passionate di dunia **data** dan **web development*
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbfai-blub&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbfai-blub&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbarfai-blub&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarfai-blub&theme=default" />
 </p>
 
 
