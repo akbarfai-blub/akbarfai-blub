@@ -1,63 +1,42 @@
-<h1 align="left">Hi there! 👋 I'm Akbar Fai</h1>
+<h1 align="left">Hi, I'm Akbar Fai 👋</h1>
 
 <p align="left">
-  🎯 Data Science Enthusiast & 💻 Frontend Web Developer  
+  Frontend Developer focused on React.js & Next.js — with a genuine interest in Data Science.
 </p>
 
 ---
 
-### 🚀 About Me
-I'm a curious learner with a big passion for **data** and **web development**. Currently exploring how data can help drive **business decisions**, while also loving the process of building clean and interactive user interfaces.
+### About
 
-- 🔍 Currently focused on: Machine Learning, Data Analysis, and React.js
-- 📊 Enjoy digging into datasets on Kaggle — especially those related to business or games
-- 🎮 Gamer at heart — because games can teach you a lot about data & UI/UX too!
-- ✍️ Love well-documented projects & clean code
+Building clean, interactive web interfaces is what I do.  
+On the side, I enjoy exploring datasets and machine learning — mostly on Kaggle.
 
----
-
-### 🧠 Skillset
-
-#### 📊 Data Science:
-- Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
-- Machine Learning (Supervised & Unsupervised)
-- SQL (Query & data manipulation)
-- Google Colab
-- Dashboard & storytelling (Power BI, Streamlit basic)
-
-#### 💻 Frontend Development:
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
-- Git & GitHub
-- UI/UX (Figma)
+- 🔭 Currently deepening my skills in **React.js & Next.js**
+- 📊 Data Science enthusiast — Python, ML, and a bit of SQL
+- ✍️ Value clean code and well-documented projects
 
 ---
 
-### 🔧 Tools & Platform
-![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Version_Control-Git-orange?logo=git&logoColor=white)
-![Colab](https://img.shields.io/badge/Notebook-Google_Colab-orange?logo=googlecolab)
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
+### Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
-### 📈 GitHub Stats
+### Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbarfai-blub&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarfai-blub&theme=default" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbarfai-blub&show_icons=true&theme=default&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarfai-blub&theme=default&hide_border=true" />
 </p>
 
-
 ---
 
-### 💬 Let's Connect!
-- LinkedIn: [AkbarFai](https://linkedin.com/in/akbarfai)
-- Portfolio / Website : Coming Soon
+### Connect
 
----
-
-Thanks for stopping by — I really appreciate your visit! Feel free to explore my projects and reach out if you'd like to connect or collaborate. 🚀
+[LinkedIn](https://linkedin.com/in/akbarfai) · Portfolio — coming soon
