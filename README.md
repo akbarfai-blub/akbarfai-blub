@@ -31,7 +31,7 @@ On the side, I enjoy exploring datasets and machine learning — mostly on Kaggl
 ### Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akbarfai-blub&show_icons=true&theme=transparent&hide_border=true"" />
+  ![Akbar's Stats](https://github-readme-stats.vercel.app/api?username=akbarfai-blub&show_icons=true&hide_border=true&count_private=true)
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarfai-blub&theme=default&hide_border=true" />
 </p>
 
