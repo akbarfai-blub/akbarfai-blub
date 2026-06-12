@@ -38,4 +38,4 @@ On the side, I enjoy exploring datasets and machine learning — mostly on Kaggl
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/akbarfai) · Portfolio — Live: [akbarfai.dev](https://abbr-portfolio-website.vercel.app/)
+[LinkedIn](https://linkedin.com/in/akbarfai) · Portfolio — Live: [akbarfai.dev](abbr-portfolio-website.vercel.app)
