@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Akbar Fai 👋</h1>
 
 <p align="left">
-  Frontend Developer focused on React.js & Next.js — with a genuine interest in Data Science.
+  Frontend Developer focused on React.js & Next.js with a genuine interest in Data Science.
 </p>
 
 ---
@@ -12,8 +12,8 @@ Building clean, interactive web interfaces is what I do.
 On the side, I enjoy exploring datasets and machine learning — mostly on Kaggle.
 
 - 🔭 Currently deepening my skills in **React.js & Next.js**
-- 📊 Data Science enthusiast — Python, ML, and a bit of SQL
-- ✍️ Value clean code and well-documented projects
+- 📊 Data Science enthusiast Python, ML, and a bit of SQL
+- ✍️ Value clean code and well documented projects
 
 ---
 
