@@ -9,7 +9,7 @@
 ### About
 
 Building clean, interactive web interfaces is what I do.  
-On the side, I enjoy exploring datasets and machine learning — mostly on Kaggle.
+On the side, I enjoy exploring datasets and machine learning mostly on Kaggle.
 
 - 🔭 Currently deepening my skills in **React.js & Next.js**
 - 📊 Data Science enthusiast Python, ML, and a bit of SQL
